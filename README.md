@@ -84,7 +84,7 @@ Contains the PDF of the full thesis document:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Preamble-Based-Symbol-Timing-Algorithms-In-OFDM-Systems.git
+   git clone https://github.com/kemalyagli/Preamble-Symbol-Timing-OFDM.git
    ```
 
 2. Navigate to the repository:
