@@ -123,4 +123,4 @@ Journal of Research and Development, 2(2), 445– 458. DOI: 10.56038/ejrnd.v2i2.
 ---
 
 ## Acknowledgments
-This repository is part of the master's thesis project conducted at Kocaeli University. Special thanks to my advisor, Sultan Aldırmaz Çolak, and colleagues who provided guidance and support throughout this work.
+This repository is part of the master's thesis project conducted at Kocaeli University. Special thanks to my advisor, Assoc. Prof. Dr. Sultan Aldırmaz Çolak, and colleagues who provided guidance and support throughout this work.
